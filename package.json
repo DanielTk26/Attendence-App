@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "expo-av": "8.0.0",
+    "firebase": "7.23.0",
+    "react-navigation": "4.0.10",
+    "react-native-paper": "3.1.1"
+  }
+}
